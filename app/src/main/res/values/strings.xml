@@ -5,8 +5,8 @@
 <resources>
     <string name="app_name">App_Blog</string>
     <string name="TextView">¡No hay elementos que mostrar</string>
-    <string name="action_settings">Settings</string>
     <string name="textView" />
+    <string name="action_settings">Settings</string>
 
 
     <string-array name="android_names">

@@ -11,19 +11,19 @@
     tools:context="josecamacho.app_blog.MainActivity">
 
 
-        <ListView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id= "@android:id/list"
-            android:layout_gravity="left|top" />
+    <ListView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id= "@android:id/list"
+    android:layout_gravity="left|top" />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="@string/TextView"
-            android:id="@+id/textView"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/TextView"
+    android:id="@+id/textView"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
 
 
-    </FrameLayout>
+</FrameLayout>
